@@ -8,7 +8,7 @@ $(document).ready(function(){
             });
 
             $(".acerca-de article").css({
-                "transform": "translate(0px,-" + scroll/6 + "%)"
+                "transform": "translate(0px,-" + scroll/4 + "%)"
             });
         }
 
